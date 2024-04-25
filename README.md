@@ -10,4 +10,4 @@ analizar la primera página de cada pdf y obtener el tiempo en minutos y segundo
 para luego hacer uso de calculos que permitan extraer el promedio de duracion en minutos de cada PDF
 
 
-* En este script se hace uso de una sola librería externa que es Apache PDFBox
+* En este script hace uso de la librería externa Apache PDFBox
