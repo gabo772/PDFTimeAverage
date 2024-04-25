@@ -2,7 +2,7 @@
 
 # PDFTimeAverageScript
 Este script tiene como funcionalidad, recorrer en una carpeta principal, subcarpetas y dentro de ellas
-analizar la primera página de cada pdf y obtener el tiempo en minutos y segundos de acuerdo con el siguiente 
+analizar la primera página de cada pdf y obtener el tiempo en minutos y segundos de acuerdo con el siguiente formato
 ## patron :
 
         "(MINUTOS) min y (SEGUNDOS) seg" 
